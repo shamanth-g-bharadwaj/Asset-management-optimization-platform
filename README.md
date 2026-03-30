@@ -94,3 +94,19 @@ Some of the main outcomes of the project include:
 - **yfinance API** for financial market data extraction
 - **Tableau / Power BI** for dashboarding and visual analytics
 - **Excel / CSV** for structured data handling and intermediate storage
+
+## Project Value
+
+This project demonstrates applied skills in:
+
+- business and user-focused problem framing
+- financial data analysis
+- exploratory data analysis
+- portfolio analytics
+- forecasting and model comparison
+- dashboard storytelling
+- turning complex data into decision-support insights
+
+## License
+
+Developed as part of the IS6611 Applied Research in Business Analytics project at University College Cork. This project is intended for academic purposes.
